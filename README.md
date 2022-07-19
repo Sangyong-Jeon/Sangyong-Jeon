@@ -15,8 +15,7 @@
 <br>
  
 <p>
-  👋 안녕하세요! 풀스택 개발자로 노력하는 Sangyong-Jeon 입니다. <br>
-  백엔드가 재미있어서 주로 백엔드를 공부하고 있습니다. <br>
+  👋 안녕하세요! 백엔드 개발자 Sangyong-Jeon 입니다. <br>
   백엔드는 SpringBoot와 JPA , 프론트는 React.js를 학습중입니다! <br>
   취미는 롱보드와 운동, 영화, 음악을 가지고 있으며 🛹🍿 <br>
   시간이 된다면 서핑을 배우고 싶습니다. 🏄
@@ -41,7 +40,6 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
 </p>
   
 ### ETC..
