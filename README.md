@@ -16,9 +16,7 @@
  
 <p>
   👋 안녕하세요! 백엔드 개발자 Sangyong-Jeon 입니다. <br>
-  백엔드는 SpringBoot와 JPA , 프론트는 React.js를 학습중입니다! <br>
-  취미는 롱보드와 운동, 영화, 음악을 가지고 있으며 🛹🍿 <br>
-  시간이 된다면 서핑을 배우고 싶습니다. 🏄
+  백엔드는 SpringBoot, JPA, QueryDsl 프론트는 React.js를 학습중입니다! <br>
 </p>
   
 ---
