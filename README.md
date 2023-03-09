@@ -16,7 +16,7 @@
  
 <p>
   👋 안녕하세요! 백엔드 개발자 Sangyong-Jeon 입니다. <br>
-  백엔드는 SpringBoot, JPA, QueryDsl 프론트는 React.js를 학습중입니다! <br>
+  백엔드는 SpringBoot, JPA, QueryDsl 을 사용하고 있습니다. <br>
 </p>
   
 ---
