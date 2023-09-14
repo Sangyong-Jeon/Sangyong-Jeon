@@ -16,7 +16,7 @@
  
 <p>
   👋 안녕하세요! 백엔드 개발자 Sangyong-Jeon 입니다. <br>
-  백엔드는 SpringBoot, JPA, QueryDsl 을 사용하고 있습니다. <br>
+  백엔드는 SpringBoot, SpringCloud, JPA, QueryDsl 을 주로 사용하고 있습니다. <br>
 </p>
   
 ---
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/SprintSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=iCloud&logoColor=white">
 </p>
     
 ### FRONTEND
